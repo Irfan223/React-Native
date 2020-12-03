@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "instaApp.app"
-               BlueprintName = "instaApp"
-               ReferencedContainer = "container:instaApp.xcodeproj">
+               BuildableName = "InstaApp.app"
+               BlueprintName = "InstaApp"
+               ReferencedContainer = "container:InstaApp.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "instaAppTests.xctest"
-               BlueprintName = "instaAppTests"
-               ReferencedContainer = "container:instaApp.xcodeproj">
+               BuildableName = "InstaAppTests.xctest"
+               BlueprintName = "InstaAppTests"
+               ReferencedContainer = "container:InstaApp.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "instaApp.app"
-            BlueprintName = "instaApp"
-            ReferencedContainer = "container:instaApp.xcodeproj">
+            BuildableName = "InstaApp.app"
+            BlueprintName = "InstaApp"
+            ReferencedContainer = "container:InstaApp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "instaApp.app"
-            BlueprintName = "instaApp"
-            ReferencedContainer = "container:instaApp.xcodeproj">
+            BuildableName = "InstaApp.app"
+            BlueprintName = "InstaApp"
+            ReferencedContainer = "container:InstaApp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
